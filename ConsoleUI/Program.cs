@@ -17,11 +17,11 @@ namespace ConsoleUI
             #region Vehicles
 
             /*
-             * Create an abstract class called Vehicle
-             * The vehicle class shall have three string properties Year, Make, and Model
-             * Set the defaults to something generic in the Vehicle class
-             * Vehicle shall have an abstract method called DriveAbstract with no implementation
-             * Vehicle shall have a virtual method called DriveVirtual with a base implementation.
+             * Create an abstract class called Vehicle - DONE
+             * The vehicle class shall have three string properties Year, Make, and Model - DONE
+             * Set the defaults to something generic in the Vehicle class - DONE
+             * Vehicle shall have an abstract method called DriveAbstract with no implementation - DONE
+             * Vehicle shall have a virtual method called DriveVirtual with a base implementation. - DONE
              */
 
             /* 
